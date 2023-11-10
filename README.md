@@ -10,10 +10,9 @@
   - <a href="https://medium.com/@jmichaeloy/software-maintenance-installing-updating-and-uninstalling-software-on-linux-and-windows-machines-58843da58962">[Installing, Updating, and Uninstalling Software on Linux and Windows Machines]</a>
   
 <h2> 🤳 Connect with me:</h2>
-<!--[<img align="left" alt="MichaelJohn | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="MichaelJohn | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="MichaelJohn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="MichaelJohn | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][Medium]
 
 [Medium]: https://medium.com/@jmichaeloy
 [linkedin]: https://www.linkedin.com/in/michaeljohne/
