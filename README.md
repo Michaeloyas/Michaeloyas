@@ -17,10 +17,8 @@
   - <a href="https://medium.com/@jmichaeloy/software-maintenance-installing-updating-and-uninstalling-software-on-linux-and-windows-machines-58843da58962">[Installing, Updating, and Uninstalling Software on Linux and Windows Machines]</a>
 
 <b>Certificate</b>
-  - [Google IT Support: Technical Support Fundamentals](https://coursera.org/share/d92dec34aa0a759aa05cdc8b7d724c4c)
-  - [Google IT Support: The Bits and Bytes of Computer Networking](https://coursera.org/share/d7254d1d1cfa15974ada0b7475662fb4)
-  - [Google IT Support: Operating Systems and You (Becoming a Power User)](https://coursera.org/share/77c9c74ebaf9d99f838d1105f0250fc6)
-
+  - [Google IT Support Professional](https://coursera.org/share/186054dae7f400a6a6cf27abd4f04044)
+ 
 <b>🔭 I’m currently working on ...</b>
   - [Google IT Support Professional Certificate (In progress, expected 12/2023 [3 weeks from now])]
   - [CompTIA A+ Certification (In progress, expected 01/2024 [2 months from now]]
