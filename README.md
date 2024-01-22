@@ -20,8 +20,7 @@
   - [Google IT Support Professional](https://coursera.org/share/186054dae7f400a6a6cf27abd4f04044)
  
 <b>🔭 I’m currently working on ...</b>
-  - [Google IT Support Professional Certificate (In progress, expected 12/2023 [3 weeks from now])]
-  - [CompTIA A+ Certification (In progress, expected 01/2024 [2 months from now]]
+  - [CompTIA A+ Certification (In progress, expected 03/2024 )]
  
 <h2> 🤳 Connect with me:</h2>
 
