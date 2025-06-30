@@ -7,7 +7,7 @@
 <h2>👨‍💻 Home Lab Experience:</h2>
 
 - <b>Active Directory</b>
-  - <a href="https://medium.com/@jmichaeloy/active-directory-domain-services-part-1-virtualbox-virtual-machine-server-and-client-9cc060f29baa">[VirtualBox, Virtual Machine, Server and Client Installations and Configurations]</a>
+  - <a href="https://github.com/Michaeloyas/Active-Directory-Part-1">[VirtualBox, Virtual Machine, Server and Client Installations and Configurations]</a>
   - <a href="https://medium.com/@jmichaeloy/active-directory-domain-services-part-2-ad-ds-ras-nat-and-dhcp-installation-056324794450">[AD DS, RAS/NAT, and DHCP Installation]</a>
 
 - <b>Ticketing</b>
