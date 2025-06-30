@@ -1,5 +1,12 @@
 <h1>Hi, I'm Michael! <br/>IT Support Specialist, <a href="https://medium.com/@jmichaeloy">Content Creator</a></h1>
 
+<b> 🏆 Certificate</b>
+  - [Google IT Support Professional](https://coursera.org/share/186054dae7f400a6a6cf27abd4f04044)
+  - [Google IT Support Professional](https://coursera.org/share/186054dae7f400a6a6cf27abd4f04044)
+ 
+<b>🔭 I’m currently working on ...</b>
+  - [CompTIA A+ Certification (In progress, expected 03/2024 )]
+
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Microsoft 365</b>
@@ -15,12 +22,6 @@
   
 - <b>Software Maintenance</b>
   - <a href="https://medium.com/@jmichaeloy/software-maintenance-installing-updating-and-uninstalling-software-on-linux-and-windows-machines-58843da58962">[Installing, Updating, and Uninstalling Software on Linux and Windows Machines]</a>
-
-<b>Certificate</b>
-  - [Google IT Support Professional](https://coursera.org/share/186054dae7f400a6a6cf27abd4f04044)
- 
-<b>🔭 I’m currently working on ...</b>
-  - [CompTIA A+ Certification (In progress, expected 03/2024 )]
  
 <h2> 🤳 Connect with me:</h2>
 
