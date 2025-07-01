@@ -8,7 +8,7 @@
 
 - <b>Active Directory</b>
   - <a href="https://github.com/Michaeloyas/Active-Directory-Part-1">[VirtualBox, Virtual Machine, Server and Client Installations and Configurations]</a>
-  - <a href="https://medium.com/@jmichaeloy/active-directory-domain-services-part-2-ad-ds-ras-nat-and-dhcp-installation-056324794450">[AD DS, RAS/NAT, and DHCP Installation]</a>
+  - <a href="https://medium.com/@jmichaeloy/active-directory-domain-services-part-2-ad-ds-ras-nat-and-dhcp-installation-056324794450">[Active Directory Domain Services, Remote Acess Services/Network Address Translation, and Dynamic Host Configuration Protocol Configuration]</a>
 
 - <b>Ticketing</b>
   - <a href="https://medium.com/@jmichaeloy/osticket-part-1-installation-on-azure-windows-virtual-machine-rdp-connection-and-configuration-31184a11f36f">[Installation on Azure Windows Virtual Machine, RDP Connection, and Configuration]</a>
