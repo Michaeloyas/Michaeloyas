@@ -11,7 +11,7 @@
   - <a href="https://github.com/Michaeloyas/Active-Directory-Part-2">[Active Directory Domain Services, Remote Acess Services/Network Address Translation, and Dynamic Host Configuration Protocol Configuration]</a>
 
 - <b>Ticketing</b>
-  - <a href="https://medium.com/@jmichaeloy/osticket-part-1-installation-on-azure-windows-virtual-machine-rdp-connection-and-configuration-31184a11f36f">[Installation on Azure Windows Virtual Machine, RDP Connection, and Configuration]</a>
+  - <a href="https://github.com/Michaeloyas/OsTicket-part1">[Installation on Azure Windows Virtual Machine, Remote Desktop Protocol (RDP) Connection, and Configuration]</a>
   - <a href="https://medium.com/@jmichaeloy/osticket-part-2-create-departments-roles-agents-users-slas-and-manage-ticketing-lifecycle-4d8ddb8144d4">[Create Departments, Roles, Agents, Users, SLAs, and Manage Ticketing Lifecycle]</a>
   
 - <b>Microsoft 365</b>
