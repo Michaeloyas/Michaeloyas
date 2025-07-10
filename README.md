@@ -15,7 +15,7 @@
   - <a href="https://github.com/Michaeloyas/OsTicket-part2">[Create Departments, Roles, Agents, Users, SLAs, and Manage Ticketing Lifecycle]</a>
   
 - <b>Microsoft 365</b>
-  - <a href="https://medium.com/@jmichaeloy/office-microsoft-365-part-1-active-users-active-groups-onedrive-exchange-sharepoint-and-c0bdef3ac3e7">[Active Users, Active Groups, OneDrive, Exchange, SharePoint and Teams]</a>
+  - <a href="https://github.com/Michaeloyas/Microsoft-365">[Active Users, Active Groups, OneDrive, Exchange, SharePoint and Teams]</a>
   
 - <b>Software Maintenance</b>
   - <a href="https://medium.com/@jmichaeloy/software-maintenance-installing-updating-and-uninstalling-software-on-linux-and-windows-machines-58843da58962">[Installing, Updating, and Uninstalling Software on Linux and Windows Machines]</a>
