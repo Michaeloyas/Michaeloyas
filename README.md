@@ -18,7 +18,7 @@
   - <a href="https://github.com/Michaeloyas/Microsoft-365">[Active Users, Active Groups, OneDrive, Exchange, SharePoint and Teams]</a>
   
 - <b>Software Maintenance</b>
-  - <a href="https://medium.com/@jmichaeloy/software-maintenance-installing-updating-and-uninstalling-software-on-linux-and-windows-machines-58843da58962">[Installing, Updating, and Uninstalling Software on Linux and Windows Machines]</a>
+  - <a href="https://github.com/Michaeloyas/software-installation">[Installing, Updating, and Uninstalling Software on Linux and Windows Machines]</a>
  
 <h2> 🤳 Connect with me:</h2>
 
