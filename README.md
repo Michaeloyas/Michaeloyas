@@ -1,4 +1,5 @@
-<h1>Hi, I'm Michael! <br/>IT Support Specialist 
+<h1>Hi, I'm Michael! <h/><br/>
+<h2> IT Support Specialist</h2> 
 <!--<a href="https://medium.com/@jmichaeloy">Content Creator</a></h1> -->
 <br/>
   
