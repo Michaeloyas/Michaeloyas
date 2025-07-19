@@ -1,7 +1,7 @@
 <h1>Hi, I'm Michael! <br/>IT Support Specialist, <a href="https://medium.com/@jmichaeloy">Content Creator</a></h1>
 
 <b> 🏆 Certification </b>
-  - [CompTIA A+](https://www.credly.com/earner/earned/badge/71e9d1a1-b239-477f-b82b-5e68c1b387f4)
+  - [CompTIA A+](https://www.credly.com/badges/71e9d1a1-b239-477f-b82b-5e68c1b387f4/public_url)
   - [Google IT Support](https://coursera.org/share/186054dae7f400a6a6cf27abd4f04044)
 
 <h2>👨‍💻 Home Lab Experience:</h2>
