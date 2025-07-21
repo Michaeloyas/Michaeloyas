@@ -25,6 +25,7 @@
  
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="MichaelJohn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<a href="https://www.linkedin.com/in/michaeljohno/">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="MichaelJohn | LinkedIn" width="22px" style="vertical-align: middle;">
+</a>
 
-[linkedin]: https://www.linkedin.com/in/michaeljohne/
